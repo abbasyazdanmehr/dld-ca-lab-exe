@@ -1,0 +1,1 @@
+xst -intstyle ise -ifn "D:/university/term4/06_digital_design_and_computer_architecture_lab/exe/project01/ripple_adder_5/full_adder_5_bit_tb.xst" -ofn "D:/university/term4/06_digital_design_and_computer_architecture_lab/exe/project01/ripple_adder_5/full_adder_5_bit_tb.syr" 

@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "unisims_ver" -lib "unimacro_ver" -lib "xilinxcorelib_ver" -o "D:/university/term4/06_digital_design_and_computer_architecture_lab/exe/project03/multiplication/multiplier_tb_isim_beh.exe" -prj "D:/university/term4/06_digital_design_and_computer_architecture_lab/exe/project03/multiplication/multiplier_tb_beh.prj" "work.multiplier_tb" "work.glbl" 

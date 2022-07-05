@@ -1,0 +1,5 @@
+set -tmpdir "D:/university/term4/06_digital_design_and_computer_architecture_lab/exe/project03/multiplication/xst/projnav.tmp"
+set -xsthdpdir "D:/university/term4/06_digital_design_and_computer_architecture_lab/exe/project03/multiplication/xst"
+elaborate
+-ifn multiplier_tb.prj
+-ifmt mixed

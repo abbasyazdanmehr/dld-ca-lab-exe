@@ -1,0 +1,16 @@
+ISim log file
+Running: D:\university\term4\06_digital_design_and_computer_architecture_lab\exe\project01\carry_look_ahead_adder5\adder_tb_isim_beh.exe -intstyle ise -gui -tclbatch isim.cmd -wdb D:/university/term4/06_digital_design_and_computer_architecture_lab/exe/project01/carry_look_ahead_adder5/adder_tb_isim_beh.wdb 
+ISim P.20131013 (signature 0x7708f090)
+This is a Full version of ISim.
+Time resolution is 1 ps
+# onerror resume
+# wave add /
+# run 1000 ns
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.
+Cin=0
+01100+10011=11111
+Cin=1
+01100+10011=00000
+Cin=1
+01001+11011=00101
